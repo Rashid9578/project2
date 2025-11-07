@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Rashid Ahmed Siddiquee
+Created by Rashid Ahmed Siddiquee.
